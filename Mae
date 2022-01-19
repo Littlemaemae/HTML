@@ -1,0 +1,261 @@
+<html>
+    <head>
+	    <meta charset="utf-8">
+		<meta name=viewport" content=width=device-width, initial-scale=1">
+		<title>index</title>
+	</head>
+	<h1 style="text-align:center;">Welcome to my website</h1>
+	<style type="text/css">
+	       #main-header{
+		    background-color:lavender;
+            color:black;
+            padding:10px;
+        }	
+
+           #main-footer{
+                text-align:center;
+                font-size:18px;
+		}		
+	</style>
+	</head>
+	<body> 
+	    <header id="main-header">
+	<body style="background-color:Lavender;">
+	    
+		<h1 style="border:2px solid Violet;"Welcome to my Website</h1>
+		
+		<h2 style="font-family:verdana;">My Portfolio</h2>
+		<p align="center"</p>
+		<body>
+      <img src = "czarina.jpg" height="900"/><center> 
+	  </body>
+	  <h2 style="border:2px solid Violet;"My Portfolio</h2> 
+	  <p style="font-family:Arial italic;">Hello! I'm Czarina Mae Magpantay from the philippines and 
+	  a student at Haaga Helia University of Applied Sciences</p>
+	  <p style="font-family:Arial italic;"></p>
+	  <br/> 
+	 <h3>
+	 <h4>
+	 
+	  <br>
+	  <br>
+	  
+	<img src="giphy.gif" height="250" width="400"/><center></img>
+	
+	<p>This is my very first website and I'm <b>very excited!!</b></p>
+	<p>I made this using notepad ++</p>
+		
+		<br>
+		<br>
+		<br>
+		<hr>
+		<hr>
+
+ </style>
+ <body>
+</style>
+		
+		
+		<head>
+
+</style>
+</head>
+
+
+<html>
+<head>
+<body style="background-image:url(https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg;">
+</head>
+
+        
+		<h3 style="font-size:160%;">Coding 101</h3>
+
+		    
+		<p style="font-size:100%;"> The purpose of this website is to showcase some skills  
+		using notepad ++ </p>
+		<p style="color:lightpink;">My favorite motto is: If others can why can't I?</p>
+		<p style="font-size:115;"></p>
+		<p style="font-size:115%;"> Coding is fun and exciting because 
+		it is enjoyable even though its difficult</p>
+		
+		Extremely Interesting.<br><br>
+		</br>
+		<b>3rd semester course.</br>
+		<br>
+		<i>Applied coding 1.</i>
+		<br>
+		<br>
+		<u>Beginner.</u>
+		<br>
+		<br>
+		
+		<strong>Gaining new experience.</strong>
+		<hr>
+		<br>
+</body>
+</html>
+
+
+	
+		<table border="10" cellpadding="10" cellspacing="0">
+		    <tr>
+			   <th>Favorite color</th>
+			   <th>Hobbies</th>
+			   <th>Favorite food</th>
+		    </tr>
+			<tr>
+			   <td>Pink and purple</td>
+			   <td>Playing piano</td>
+			   <td>Chicken</td>
+			</tr>
+		</table>
+			   	   
+	    <hr>
+		<hr>
+		<br>
+		<br>
+		
+		<table>
+		    <tr>
+			   <td>
+			      First name: 
+			   </td>
+			<td>
+			   <input type="text"placeholder= Name>
+			</td>
+			<tr>
+			   <td>
+			      Last name:
+			   </td>
+			 <td>
+			    <input type="text"placeholder=Lastname>
+			</td>
+			<tr>
+			   <td>
+			      Username: 
+			   </td>
+			  
+			   <td>
+			      <input type="text" placeholder= Username>
+			   </td>
+			</tr>
+			<tr>
+			   <td>
+			      Password :
+			   </td>
+			<td>
+			    <input type="Password" placeholder= Password>
+			</td>
+		    </tr>
+			<tr>
+			    <input type="radio" name="Gender">Male
+				<input type="radio" name="Gender">Female 
+			<br>
+			<br>
+			</td>
+		    </tr>
+			<tr>
+			   <td>
+			      Email : 
+			   </td>
+			   <td>
+			      <input type="mail"placeholder="Email" name>
+			   </td>
+			</tr>
+			<tr>
+			   <td>
+			      Phone no : 
+			   </td>
+			   <td> 
+			      <select>
+				    <option>+358</option>
+				  </select> 
+				  <input type="Phone"placeholder="123456*****" name> 
+			   </td>
+			</tr>
+		</table>
+		    
+			<br>
+			<br>
+			
+			 <input type="submit" value="Submit">
+</form>
+
+		<br>
+		<br>
+		<hr>
+		<hr>
+		
+	
+	<p> A relaxing video</p>
+		<iframe width="420" height="315"
+src="https://www.youtube.com/embed/zHvBPwNUBS8?playlist=zHvBPwNUBS8&loop=1">
+</iframe>
+		  
+		  
+		  
+		  
+		  
+  
+<hr>
+<hr>
+
+
+		
+		
+		
+		<p>
+		This is Hello Kitty from Japan and also the staple
+		of the kawaii segment of Japanese popular culture. 
+		</p>
+		<img src="hk.png" border"10" alt="hellokitty"
+		
+		
+		
+		
+		<br>
+		
+		
+		<hr>
+		<hr>
+
+		
+	
+		<h5 style="font-size:20px;">This is my country</h5>
+		
+		<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16009796.351553263!2d113.5620089673668!3d11.577524094753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x324053215f87de63%3A0x784790ef7a29da57!2sPhilippines!5e0!3m2!1sen!2sfi!4v1631107671824!5m2!1sen!2sfi" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+	
+	
+
+		<hr>
+		<hr>
+		<br>
+		
+		
+		<p font-size:40px">You can learn more in the following links</p><p style="font-size:29px"> 
+		&#128512; &#128516; &#128525; &#128151;
+		</p>
+		<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+		
+		<p>Click the link below
+		         </p>
+	   <a href="https://www.w3schools.com" target="_blank">Visit w3schools.com!</a> 
+		
+		<p>Click the image
+		</p>
+		<body>
+      <a href = "https://www.w3schools.com" target = "_self"> 
+       <img src = "logo.png" alt ="w3schools logo" border = "3"/> 
+      </a>
+	  </body>
+	    <br>
+		<hr>
+		<hr>
+		<br>
+		<br>
+		<br>
+		
+		
+	</body>
+	
+</html>
